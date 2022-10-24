@@ -10,6 +10,15 @@ export const project = [
         techs: ["django", "Javascript", "html", "jinja", "bootstrap","rest API"],
     },{
         flexrow:"flex-row",
+        title: "Talkshot",
+        cover: "talkshot.png",
+        github: "http://muzammil.pythonanywhere.com/",
+        external: "http://muzammil.pythonanywhere.com/",
+        descriptionHtml:
+            "A social media platform to share your thoughts and opinion.Discuss about various things with interested peoples.",
+        techs: ["Django", "Javascript", "Rest API"],
+    },{
+        flexrow:"flex-row",
         title: "Airline Managing Software",
         cover: "airline.png",
         github: "https://github.com/muzammil-85/simple-flight-scheduler.git",
