@@ -1,6 +1,3 @@
-
-
-
 export const project = [
     {
         flexrow:"flex-row-reverse",
@@ -11,6 +8,15 @@ export const project = [
         descriptionHtml:
             "website of calicut university engineering college techfest....",
         techs: ["django", "Javascript", "html", "jinja", "bootstrap","rest API"],
+    },{
+        flexrow:"flex-row",
+        title: "Talkshot",
+        cover: "talkshot.png",
+        github: "http://muzammil.pythonanywhere.com/",
+        external: "http://muzammil.pythonanywhere.com/",
+        descriptionHtml:
+            "A social media platform to share your thoughts and opinion.Discuss about various things with interested peoples.",
+        techs: ["Django", "Javascript", "Rest API"],
     },{
         flexrow:"flex-row",
         title: "Airline Managing Software",
