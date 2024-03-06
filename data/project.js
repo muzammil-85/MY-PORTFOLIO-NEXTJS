@@ -1,6 +1,15 @@
 export const project = [
     {
         flexrow:"flex-row-reverse",
+        title: "Eventlify",
+        cover: "/eventlify.jpg",
+        github: "https://github.com/muzammil-85/Eventlify/tree/master",
+        external: "https://github.com/muzammil-85/Eventlify/tree/master",
+        descriptionHtml:
+            "Eventlify is a comprehensive event management platform designed to simplify the planning, organization, and execution of various types of events.",
+        techs: ["django", "Javascript", "html", "jinja", "bootstrap","rest API"],
+    },{
+        flexrow:"flex-row",
         title: "Diksha Techfest",
         cover: "/about.png",
         github: "http://diksha22.pythonanywhere.com/",
@@ -8,6 +17,15 @@ export const project = [
         descriptionHtml:
             "website of calicut university engineering college techfest....",
         techs: ["django", "Javascript", "html", "jinja", "bootstrap","rest API"],
+    },{
+        flexrow:"flex-row-reverse",
+        title: "Dynamic Personal Portfolio",
+        cover: "portfolio.png",
+        github: "https://muzammil-85.github.io/ashiq-dynamic-portfolio-frontend/",
+        external: "https://muzammil-85.github.io/ashiq-dynamic-portfolio-frontend/",
+        descriptionHtml:
+        "Designed and developed a comprehensive career portfolio highlighting coaching experience and other acheivements, showcasing a successful professional journey in the world of football.",
+        techs: ["Django", "Javascript", "Rest API"],
     },{
         flexrow:"flex-row",
         title: "Talkshot",
@@ -18,7 +36,7 @@ export const project = [
             "A social media platform to share your thoughts and opinion.Discuss about various things with interested peoples.",
         techs: ["Django", "Javascript", "Rest API"],
     },{
-        flexrow:"flex-row",
+        flexrow:"flex-row-reverse",
         title: "Airline Managing Software",
         cover: "airline.png",
         github: "https://github.com/muzammil-85/simple-flight-scheduler.git",
