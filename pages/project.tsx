@@ -32,6 +32,9 @@ export default function Project() {
                   </h1>
                   <p className="SpaceGroteskRegular text-xl py-8">
                     {n.descriptionHtml}
+                  </p >
+                  <p className="SpaceGroteskRegular text-xl py-8">
+                    Techs Used : [{n.techs}]
                   </p>
                   <a href={n.external} target="_blank" rel="noreferrer">
                     <div className="relative block group  my-7 cursor-pointer ml-3">
