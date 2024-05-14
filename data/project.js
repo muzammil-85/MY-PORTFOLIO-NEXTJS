@@ -1,5 +1,15 @@
 export const project = [
     {
+        flexrow:"flex-row-reverse",
+        title: "CNN Approach for Eye Disease Detection and Explainable AI",
+        cover: "/exp1.jpg",
+        github: "https://github.com/muzammil-85/eyx",
+        external: "https://github.com/muzammil-85/eyx",
+        descriptionHtml:
+            "Developed a deep learning model using Convolutional Neural Networks (CNNs) to detect various eye diseases, including Cataract, Glaucoma, Uveitis, and Conjunctivitis. Explainable AI for explaining the output of the model and utilized blockchain technology to encrypt the data (eye images) during transfer from frontend to backend and vice versa. Created on hackathon",
+        techs: ["django, ", "Javascript, ", "html, ", "python, ", "bootstrap, ","pytorch,","Explaniable AI, ","blockchain"],
+    },
+    {
         flexrow:"flex-row",
         title: "Demystifying AI",
         cover: "/demystifying_ai.png",
