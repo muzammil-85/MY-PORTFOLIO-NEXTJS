@@ -20,10 +20,10 @@ export default function Hero() {
 
         <div className="SpaceGroteskRegular text-[16px] md:text-[20px] lg:text-[24px] py-5">
         <div className="flex items-center">
-  <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/muzammil-85" target="_blank" rel="noopener noreferrer">
     <FaGithub className="text-3xl mr-4" />
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/muzammil85/" target="_blank" rel="noopener noreferrer">
     <FaLinkedin className="text-3xl" />
   </a>
 </div>
