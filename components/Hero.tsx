@@ -34,7 +34,7 @@ export default function Hero() {
             <span className="absolute inset-0 border-2  border-[#188AEC] rounded-lg"></span>
             <div className="transition bg-[#188AEC] text-white rounded-lg group-hover:-translate-x-0  group-hover:-translate-y-0 -translate-x-3 translate-y-2">
               <div className="py-3 px-10 ">
-                <a href = "/cv.pdf" className="mt-1 text-xl">View Resume</a>
+                <a href = "/CV.pdf" className="mt-1 text-xl">View Resume</a>
               </div>
             </div>
           </div>
