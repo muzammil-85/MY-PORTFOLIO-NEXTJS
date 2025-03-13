@@ -1,6 +1,16 @@
 export const project = [
     {
         flexrow:"flex-row-reverse",
+        title: "Green Clean Earth",
+        cover: "/gce.png",
+        github: "https://www.greencleanearth.org/",
+        external: "https://www.greencleanearth.org/",
+        descriptionHtml:
+            "Individuals and groups interested in contributing to environmental conservation can register and participate in various activities and competitions through the website. The platform also provides resources such as event news, plant acquisition information, participant lists, activity logs, FAQs, and scoreboards to track progress and engagement.",
+        techs: ["nextjs, ", "nodejs, ", "tailwindcss, ", "mysql,"],
+    },
+    {
+        flexrow:"flex-row-reverse",
         title: "CNN Approach for Eye Disease Detection and Explainable AI",
         cover: "/exp1.jpg",
         github: "https://github.com/muzammil-85/eyx",
